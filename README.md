@@ -39,8 +39,8 @@ vi /data/SSHReverseTunnel/SSHReverseTunnel.conf
 
 ### Variables
 
-REMOTE_HOST: Remote host to connect to.
-REMOTE_USER: Remote user used to login to REMOTE_HOST.
-REMOTE_PORT: SSH Port of the REMOTE_HOST.
-REMOTE_LISTENING_PORT: Port to listen for connection on REMOTE_HOST.
+REMOTE_HOST: Remote host to connect to.  
+REMOTE_USER: Remote user used to login to REMOTE_HOST.  
+REMOTE_PORT: SSH Port of the REMOTE_HOST.  
+REMOTE_LISTENING_PORT: Port to listen for connection on REMOTE_HOST.  
 
